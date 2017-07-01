@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/item1"
-        android:icon="@drawable/ic_action_name"
+        android:icon="@drawable/vector_compose_fab"
         android:onClick="onComposeAction"
         app:showAsAction="ifRoom"
         android:title="Compose" >
